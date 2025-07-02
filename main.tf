@@ -5,7 +5,7 @@ provider "azurerm" {
     }
   }
 
-  subscription_id = "3c77ffd3-acd7-424c-b127-7c7be2b6e188"
+  subscription_id = "add your sub ID"
 }
 
 resource "random_integer" "rand" {
